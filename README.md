@@ -46,8 +46,8 @@ This project is suitable as a base for restaurant locators, food delivery apps, 
 ## Tech Stack
 
 - **Language:** Java
-- **Framework:** (Specify if using Spring Boot, JavaFX, etc.)
-- **Database:** (Specify if using H2, MySQL, SQLite, or others)
+- **Framework:** (Spring Boot, JavaFX)
+- **Database:** Firebase
 - **Build Tool:** Maven or Gradle
 - **Other:**  
   - Map APIs (Google Maps, OpenStreetMap)
