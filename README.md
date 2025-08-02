@@ -50,5 +50,5 @@ This project is suitable as a base for restaurant locators, food delivery apps, 
 - **Database:** (Specify if using H2, MySQL, SQLite, or others)
 - **Build Tool:** Maven or Gradle
 - **Other:**  
-  - Map APIs (Google Maps, OpenStreetMap) if map integration is provided
-  - RESTful API (if the project supports API endpoints)
+  - Map APIs (Google Maps, OpenStreetMap)
+  - RESTful API
